@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3alMbnVxkXCTEEIxYkZQz0movPKA99BhDgAQVvTsJ0cgtqBzbKYIt9T6wnKeqdg8c7OA0tr+slVfc++d1Jigbg==",
+  "success": true,
+  "projectFilePath": "/Users/zhukaiwen/Projects/2/2/2.csproj",
+  "expectedPackageFiles": [
+    "/Users/zhukaiwen/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/zhukaiwen/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/zhukaiwen/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
